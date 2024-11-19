@@ -1,0 +1,62 @@
+﻿@{
+    var pokemon1 = (AP_Pokemon.Main.Models.Pokemon)ViewData["Pokemon1"];
+    var pokemon2 = (AP_Pokemon.Main.Models.Pokemon)ViewData["Pokemon2"];
+    var battleResult = (string)ViewData["BattleResult"];
+
+    int defaultPokemon1Id = 1; 
+    int defaultPokemon2Id = 2; 
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form action="@Url.Action("StartBattle", "Battle")" method="get">
+    <label for="pokemon1Id">ID Pokémon 1:</label>
+    <input type="number" id="pokemon1Id" name="pokemon1Id" required placeholder="Ingrese ID del Pokémon 1"
+           value="@defaultPokemon1Id" />
+
+    <label for="pokemon2Id">ID Pokémon 2:</label>
+    <input type="number" id="pokemon2Id" name="pokemon2Id" required placeholder="Ingrese ID del Pokémon 2"
+           value="@defaultPokemon2Id" />
+
+    <button type="submit">Iniciar batalla</button>
+</form>
+
+@if (!string.IsNullOrEmpty(battleResult))
+{
+    <div id="battleInfo">
+        <h3>¡La batalla ha terminado!</h3>
+        <p>@battleResult</p>
+
+        @if (pokemon1 != null)
+        {
+            <div>
+                <h4>Pokémon 1: @pokemon1.Nickname</h4>
+                <p>Tipo: @pokemon1.Type</p>
+                <p>HP: @pokemon1.HP</p>
+            </div>
+        }
+        else
+        {
+            <div>
+                <p>El Pokémon 1 no está disponible.</p>
+            </div>
+        }
+
+        @if (pokemon2 != null)
+        {
+            <div>
+                <h4>Pokémon 2: @pokemon2.Nickname</h4>
+                <p>Tipo: @pokemon2.Type</p>
+                <p>HP: @pokemon2.HP</p>
+            </div>
+        }
+        else
+        {
+            <div>
+                <p>El Pokémon 2 no está disponible.</p>
+            </div>
+        }
+
+        <button onclick="location.href='@Url.Action("Index", "Pokemon")'">Volver a la lista de Pokémon</button>
+    </div>
+}
