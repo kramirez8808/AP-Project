@@ -8,22 +8,18 @@ namespace AP_Pokemon.Main.Models
 {
     public class Pokemon
     {
-        [Key]
-        public int PokemonID { get; set; }
+        public string Name { get; set; }
 
-        [Required]
-        public string Nickname { get; set; }
+        public Dictionary<string, int> Moves { get; set; }
+        // { "Move1" : 20 }
 
-        public int HP { get; set; }
-        public int Attack { get; set; }
+        public string[] Types { get; set; }
+        // ["Fire", "Normal"]
 
-        [Required]
-        [StringLength(50)]
-        public string Type { get; set; }
+        public Dictionary<string, int> Stats { get; set; }
+        // { "HP" : 20 }
 
-        [Required]
-        [StringLength(100)]
-        public string Species { get; set; }
+        public string ImageURL { get; set; }
 
     }
 }
