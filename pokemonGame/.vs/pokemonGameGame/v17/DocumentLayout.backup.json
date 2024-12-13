@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|c:\\users\\fanta\\downloads\\pokemongamegame\\pokemongame\\pokemongame\\views\\battle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\views\\battle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\models\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\models\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\controllers\\pokemonbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\controllers\\pokemonbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGameGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\controllers\\pokemonbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGameGame.csproj|solutionrelative:pokemongame\\controllers\\pokemonbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGameGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\views\\battle\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGameGame.csproj|solutionrelative:pokemongame\\views\\battle\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\models\\battlemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\models\\battlemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\models\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\models\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemongame\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBDFFF9-F28B-46FF-A955-6DC09C5DF721}|pokemonGame\\pokemonGame.csproj|solutionrelative:pokemongame\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\PokemonApiResponse.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Models\\PokemonApiResponse.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\PokemonApiResponse.cs",
+              "RelativeToolTip": "pokemonGame\\Models\\PokemonApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:27:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pokemonGame\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:30:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleController.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\BattleController.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Controllers\\BattleController.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\BattleController.cs",
+              "RelativeToolTip": "pokemonGame\\Controllers\\BattleController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:26:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\Battle.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Models\\Battle.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\Battle.cs",
+              "RelativeToolTip": "pokemonGame\\Models\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:16:06.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BattleResult.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\BattleResult.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Models\\BattleResult.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\BattleResult.cs",
+              "RelativeToolTip": "pokemonGame\\Models\\BattleResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:25:18.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "pokemonGame\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "pokemonGame\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:16:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Global.asax.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Global.asax.cs",
+              "RelativeToolTip": "pokemonGame\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:07:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\Battle\\Index.cshtml",
+              "RelativeDocumentMoniker": "pokemonGame\\Views\\Battle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\Battle\\Index.cshtml",
+              "RelativeToolTip": "pokemonGame\\Views\\Battle\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:05:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\Pokemon.cs",
+              "RelativeToolTip": "pokemonGame\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:04:07.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokemonBattle.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\PokemonBattle.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Controllers\\PokemonBattle.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\PokemonBattle.cs",
+              "RelativeToolTip": "pokemonGame\\Controllers\\PokemonBattle.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:19:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonBattle.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\PokemonBattle.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Controllers\\PokemonBattle.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Controllers\\PokemonBattle.cs",
+              "RelativeToolTip": "pokemonGame\\Controllers\\PokemonBattle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:04:32.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BattleMessages.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\BattleMessages.cs",
+              "RelativeDocumentMoniker": "pokemonGame\\Models\\BattleMessages.cs",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Models\\BattleMessages.cs",
+              "RelativeToolTip": "pokemonGame\\Models\\BattleMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:24:31.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\Battle\\Contact.cshtml",
+              "RelativeDocumentMoniker": "pokemonGame\\Views\\Battle\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\fanta\\Downloads\\pokemonGameGame\\pokemonGame\\pokemonGame\\Views\\Battle\\Contact.cshtml",
+              "RelativeToolTip": "pokemonGame\\Views\\Battle\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:20:16.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
