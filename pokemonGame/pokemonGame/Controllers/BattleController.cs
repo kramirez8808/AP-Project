@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using pokemonGame.Models;
+using PokemonGame.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,10 +8,11 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
-using static pokemonGame.Models.BattleMessages;
+using static PokemonGame.Models.BattleMessages;
 
-namespace pokemonGame.Controllers
+namespace PokemonGame.Controllers
 {
+    [Authorize]
     public class BattleController : Controller
     {
         // GET: Battle
@@ -79,7 +80,7 @@ namespace pokemonGame.Controllers
         private async Task<Tuple<Pokemon, Pokemon>> PickPokemons()
         {
             var pokemon1 = await GetRandomPokemon();
-            var pokemon2 = await GetRandomPokemon(); 
+            var pokemon2 = await GetRandomPokemon();
             return Tuple.Create(pokemon1, pokemon2);
         }
         private async Task<Pokemon> GetRandomPokemon()

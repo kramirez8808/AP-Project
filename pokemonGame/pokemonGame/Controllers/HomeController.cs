@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace pokemonGame.Controllers
+namespace PokemonGame.Controllers
 {
     public class HomeController : Controller
     {

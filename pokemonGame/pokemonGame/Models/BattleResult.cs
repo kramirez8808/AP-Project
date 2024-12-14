@@ -5,7 +5,7 @@ using System.Web;
 using System.Collections.Generic;
 
 
-namespace pokemonGame.Models
+namespace PokemonGame.Models
 {
     public class BattleResult
     {

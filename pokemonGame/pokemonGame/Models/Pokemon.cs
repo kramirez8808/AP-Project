@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace pokemonGame.Models
+namespace PokemonGame.Models
 {
     public class Pokemon
     {
