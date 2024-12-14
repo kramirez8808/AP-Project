@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\views\\battle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|c:\\users\\fanta\\onedrive\\documents\\github workplaces\\ap-project\\pokemongame\\pokemongame\\views\\battle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\views\\battle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|c:\\users\\fanta\\onedrive\\documents\\github workplaces\\ap-project\\pokemongame\\pokemongame\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|c:\\users\\fanta\\onedrive\\documents\\github workplaces\\ap-project\\pokemongame\\pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\controllers\\battlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\views\\battle\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\views\\battle\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\models\\battlemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\models\\battlemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2A549C-86BE-47B1-98BD-4AB34DADF4C0}|PokemonGame\\PokemonGame.csproj|solutionrelative:pokemongame\\models\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
@@ -163,19 +167,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T00:40:19.072Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PokemonGame\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PokemonGame\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:51:21.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PokemonGame\\Views\\Shared\\_Layout.cshtml",
@@ -183,12 +187,11 @@
               "RelativeToolTip": "PokemonGame\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T00:40:17.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T00:40:17.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Battle\\About.cshtml",
               "RelativeDocumentMoniker": "PokemonGame\\Views\\Battle\\About.cshtml",
@@ -200,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Controllers\\HomeController.cs",
@@ -208,11 +211,12 @@
               "RelativeToolTip": "PokemonGame\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T00:32:20.616Z"
+              "WhenOpened": "2024-12-14T00:32:20.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Battle\\Index.cshtml",
               "RelativeDocumentMoniker": "PokemonGame\\Views\\Battle\\Index.cshtml",
@@ -225,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BattleController.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Controllers\\BattleController.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Controllers\\BattleController.cs",
               "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Controllers\\BattleController.cs",
               "RelativeToolTip": "PokemonGame\\Controllers\\BattleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T00:23:40.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PokemonGame\\Views\\Home\\Index.cshtml",
@@ -250,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "PokemonGame\\Views\\Home\\About.cshtml",
@@ -262,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Models\\Pokemon.cs",
@@ -274,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BattleResult.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Models\\BattleResult.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Models\\BattleResult.cs",
@@ -286,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BattleMessages.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Models\\BattleMessages.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Models\\BattleMessages.cs",
@@ -298,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Battle.cs",
               "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Models\\Battle.cs",
               "RelativeDocumentMoniker": "PokemonGame\\Models\\Battle.cs",
@@ -306,7 +310,20 @@
               "RelativeToolTip": "PokemonGame\\Models\\Battle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T00:27:10.446Z"
+              "WhenOpened": "2024-12-14T00:27:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub Workplaces\\AP-Project\\PokemonGame\\PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "PokemonGame\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T00:40:19.072Z"
             }
           ]
         }

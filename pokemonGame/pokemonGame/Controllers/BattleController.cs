@@ -32,9 +32,9 @@ namespace PokemonGame.Controllers
         public JsonResult StartBattle(Battle battle)
         {
             var variables = new Dictionary<string, string>
-    {
-        { "attacker", battle.Pokemon1.Name },
-    };
+            {
+                { "attacker", battle.Pokemon1.Name },
+            };
 
             var pk1 = battle.Pokemon1;
             var pk2 = battle.Pokemon2;
@@ -96,9 +96,9 @@ namespace PokemonGame.Controllers
             {
                 Name = pokemonData.name,
                 Sprite = pokemonData.sprites.front_default,
-                Health = pokemonData.stats[0].base_stat, // HP
-                Attack = pokemonData.stats[1].base_stat, // Attack
-                Defense = pokemonData.stats[2].base_stat // Defense
+                Health = (int) pokemonData.stats[0].base_stat, // HP
+                Attack = (int)pokemonData.stats[1].base_stat, // Attack
+                Defense = (int)pokemonData.stats[2].base_stat // Defense
             };
 
 
