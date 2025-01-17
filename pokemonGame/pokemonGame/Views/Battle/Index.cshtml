@@ -1,59 +1,59 @@
-﻿
-@model PokemonGame.Models.Battle
-
-@{
-    ViewData["Title"] = "Battle Pokémon";
-}
-
-<h1>Battle Pokémon</h1>
+﻿<h1>Battle Pokémon</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <!-- Columna 1: Primer Pokémon -->
     <div style="border: 2px solid black; padding: 20px; margin: 10px; text-align: center;">
         <h3>Pokémon 1</h3>
-        <img src="@Model.Pokemon1.Sprite" alt="@Model.Pokemon1.Name" width="100" />
-        <p><strong>Name:</strong> @Model.Pokemon1.Name</p>
-        <p><strong>Health:</strong> @Model.Pokemon1.Health</p>
-        <p><strong>Attack:</strong> @Model.Pokemon1.Attack</p>
-        <p><strong>Defense:</strong> @Model.Pokemon1.Defense</p>
+        <img id="pokemon1Sprite" src="@Model.Pokemon1.Sprite" alt="@Model.Pokemon1.Name" width="100" />
+        <p><strong>Name:</strong> <span id="pokemon1Name">@Model.Pokemon1.Name</span></p>
+        <p><strong>Health:</strong> <span id="pokemon1Health">@Model.Pokemon1.Health</span></p>
+        <p><strong>Attack:</strong> <span id="pokemon1Attack">@Model.Pokemon1.Attack</span></p>
+        <p><strong>Defense:</strong> <span id="pokemon1Defense">@Model.Pokemon1.Defense</span></p>
     </div>
 
     <!-- Columna 2: Resultado de la Batalla (Botón) -->
     <div style="background-color: lawngreen; border: 2px solid black; padding: 20px; margin: 10px; text-align: center;">
         <h3>Battle Result</h3>
-        <p><strong>Es momento de atacar a tu pokemon</strong></p>
-
-        <button onclick="callControllerMethod()" type="submit" style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Start Battle</button>
+        <p id="battleMessage"><strong>Es momento de atacar a tu pokemon</strong></p>
+        <p id="battleStatus"></p>
+        <button id="startBattleButton" type="button" style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Start Battle</button>
     </div>
 
+    <!-- Columna 3: Segundo Pokémon -->
     <div style="border: 2px solid black; padding: 20px; margin: 10px; text-align: center;">
         <h3>Pokémon 2</h3>
-        <img src="@Model.Pokemon2.Sprite" alt="@Model.Pokemon2.Name" width="100" />
-        <p><strong>Name:</strong> @Model.Pokemon2.Name</p>
-        <p><strong>Health:</strong> @Model.Pokemon2.Health</p>
-        <p><strong>Attack:</strong> @Model.Pokemon2.Attack</p>
-        <p><strong>Defense:</strong> @Model.Pokemon2.Defense</p>
+        <img id="pokemon2Sprite" src="@Model.Pokemon2.Sprite" alt="@Model.Pokemon2.Name" width="100" />
+        <p><strong>Name:</strong> <span id="pokemon2Name">@Model.Pokemon2.Name</span></p>
+        <p><strong>Health:</strong> <span id="pokemon2Health">@Model.Pokemon2.Health</span></p>
+        <p><strong>Attack:</strong> <span id="pokemon2Attack">@Model.Pokemon2.Attack</span></p>
+        <p><strong>Defense:</strong> <span id="pokemon2Defense">@Model.Pokemon2.Defense</span></p>
     </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-   function callControllerMethod() {
-    const model = @Html.Raw(Json.Encode(Model));
-    debugger;
-	$.ajax({
-		url: '/Battle/StartBattle',
-        type: 'POST',
-        contentType: 'application/json',
-		data: JSON.stringify(model),
-        success: function (response) {
-            debugger;
-			alert(response);
-		},
-        error: function (err) {
-            console.log(err);
-			alert("An error occurred.");
-		}
-	});
-}
+    function callControllerMethod() {
+        $.ajax({
+            url: '/Battle/StartBattle',
+            type: 'POST',
+            contentType: 'application/json',
+            success: function (response) {
+                $('#pokemon1Health').text(response.pokemon1.Health);
+                $('#pokemon2Health').text(response.pokemon2.Health);
+                $('#battleMessage').text(response.message);
+                $('#battleStatus').text(response.status);
+
+                if (response.status === "Battle is over!") {
+                    $('#startBattleButton').prop('disabled', true);
+                }
+            },
+            error: function () {
+                alert('An error occurred while starting the battle.');
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        $('#startBattleButton').click(callControllerMethod);
+    });
 </script>
